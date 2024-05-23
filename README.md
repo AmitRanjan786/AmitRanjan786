@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AmitRanjan786
 - 👀 I’m interested in C/C++/python/html/CSS/JS
-- 🌱 I’m currently looking job in pythan developer
+- 🌱 I’m currently looking job in python developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
